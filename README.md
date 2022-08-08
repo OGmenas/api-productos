@@ -71,3 +71,13 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+## API repository
+
+La Api y su vocalización quedó dispuesta en un despliegue realizado con HEROKU. Los métodos dispuestos son los siguientes:
+
+<img src="./Screenshot_1.png" alt="Métodos API REST.">
+
+## Enlace Servicio.
+
+- [API REST catálogo](https://api-catalog-test-og.herokuapp.com/)
