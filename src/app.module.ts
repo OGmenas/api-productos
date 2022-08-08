@@ -13,7 +13,7 @@ import { ProductEntity } from './modules/catalog/entity/product-entity';
               port: 3306,
               username: 'ba5d62766be0d4',
               password: 'f66e0385',
-              database: 'theroku_ff50bc2f7e0f5f1',
+              database: 'heroku_ff50bc2f7e0f5f1',
               entities: [ProductEntity],
               synchronize: true,
             })],
